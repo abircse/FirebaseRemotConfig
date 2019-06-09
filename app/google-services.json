@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "175689753155",
+    "firebase_url": "https://fir-remotconfig.firebaseio.com",
+    "project_id": "fir-remotconfig",
+    "storage_bucket": "fir-remotconfig.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175689753155:android:95891712be33894a",
+        "android_client_info": {
+          "package_name": "com.coxtunes.firebaseremotconfig"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "175689753155-80piurldiocak2gumr8su28jir2gtsie.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.coxtunes.firebaseremotconfig",
+            "certificate_hash": "6d892968488626b4284f597347eb8b33e8db2497"
+          }
+        },
+        {
+          "client_id": "175689753155-rkfcovhm313udhcm0ed6lq593o36q0kn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwvKRxnhP1gBk2ZJVvshf5USLlU8vnlBc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "175689753155-rkfcovhm313udhcm0ed6lq593o36q0kn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
